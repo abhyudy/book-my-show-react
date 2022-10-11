@@ -15,8 +15,7 @@ const EntertainmentCard = (props) => {
   );
 };
 
-
-const EntertainmentCardSlider =() => {
+const EntertainmentCardSlider = () => {
   const EntertainmentImage = [
     "https://in.bmscdn.com/discovery-catalog/collections/tr:w-800,h-800:ote-MTI1KyBFdmVudHM%3D,otc-FFFFFF,otf-Roboto,ots-64,ox-48,oy-320,ott-b:w-300/workshops-collection-202007231330.png",
     "https://in.bmscdn.com/discovery-catalog/collections/tr:w-800,h-800:ote-OSBFdmVudHM%3D,otc-FFFFFF,otf-Roboto,ots-64,ox-48,oy-320,ott-b:w-300/fitness-collection-2020081150.png",
@@ -44,7 +43,7 @@ const EntertainmentCardSlider =() => {
         settings: {
           slidesToShow: 3,
           slidesToScroll: 2,
-          },
+        },
       },
       {
         breakpoint: 600,
@@ -52,19 +51,18 @@ const EntertainmentCardSlider =() => {
           slidesToShow: 3,
           slidesToScroll: 1,
           initialSlide: 1,
-          },
+        },
       },
       {
         breakpoint: 400,
         settings: {
           slidesToShow: 2,
           slidesToScroll: 1,
-          
-          },
+        },
       },
     ],
   };
-  
+
   return (
     <>
       <Slider {...settings}>
