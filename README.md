@@ -14,13 +14,13 @@ I'm a full stack developer...
 
 Clone of Bookmyshow
 
-My website
+##My website
 
 https://book-my-show-react-671qznv6i-abhyudy.vercel.app
 
 BookMyShow website is basically for entertainment purpose, In this app, a user can book movie tickets by choosing the different theatres and timings accordingly. The user also can see some events happening around them and can attend the events.
 
-Using the app
+##Using the app
 
 Technologies used
 In this project, a few technologies and packages were used, listed below
@@ -37,14 +37,14 @@ In this project, a few technologies and packages were used, listed below
 Install the packages
 npm install
 
-For database
+#For database
 
 MongoDB
 
-To start the server you can do
+#To start the server you can do
  npm run 
 
-Functionalities associated with this app
+#Functionalities associated with this app
 
 1. A user can visit the home page and can see the Movies, Events, Fun activities etc.
 2. User can view all the movies by clicking on see all button on the right, there they can also filter the movies according to Language, Genre and Screen type.
@@ -52,7 +52,7 @@ Functionalities associated with this app
 4. User can watch movies by purchase it in two from byrent / buy it.
 
 
-Some of the snaps from the app
+#Some of the snaps from the app
 [https://book-my-show-react-671qznv6i-abhyudy.vercel.app]
 
 
