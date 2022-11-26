@@ -16,7 +16,7 @@ Clone of Bookmyshow
 
 My website
 
-https://book-my-show-react-671qznv6i-abhyudy.vercel.app/movie/238
+https://book-my-show-react-671qznv6i-abhyudy.vercel.app
 
 BookMyShow website is basically for entertainment purpose, In this app, a user can book movie tickets by choosing the different theatres and timings accordingly. The user also can see some events happening around them and can attend the events.
 
@@ -53,7 +53,7 @@ Functionalities associated with this app
 
 
 Some of the snaps from the app
-[https://book-my-show-react-671qznv6i-abhyudy.vercel.app/movie/238]
+[https://book-my-show-react-671qznv6i-abhyudy.vercel.app]
 
 
 
