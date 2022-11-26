@@ -42,7 +42,8 @@ npm install
 MongoDB
 
 #To start the server you can do
- npm run 
+
+ npm run start
 
 #Functionalities associated with this app
 
